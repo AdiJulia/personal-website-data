@@ -32,7 +32,7 @@ const DataTools = [
     title: "MS Power Point",
   },
   {
-    image: "/assets/tools/tableau.png",
+    image: "/assets/tools/Tableau.png",
     title: "Tableau",
   },
   {
