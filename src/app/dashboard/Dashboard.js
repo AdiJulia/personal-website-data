@@ -23,7 +23,7 @@ export default function Dashboard() {
 
           {/* TOOLS */}
           <div className="sm:mt-8">
-            <p className="text-2xl text-gray-600 pt-0 pb-3 font-mono font-bold text-center">
+            <p className="text-2xl text-gray-600 pt-10 pb-3 font-mono font-bold text-center">
               What I Work With
             </p>
           </div>
