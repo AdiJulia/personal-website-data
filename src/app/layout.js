@@ -28,6 +28,10 @@ export const metadata = {
     template: "%s | Adi Julia",
   },
 
+  verivication:{
+    google: "BahFocBnRSmohpfrOLlHZyc78dH2EQ2BzUlp2BVrjrk",
+  },
+
   description:
     "Personal website of Adi Julia. Showcasing projects, experience, and skills in data analysis and web development.",
 
